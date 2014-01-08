@@ -1,0 +1,4 @@
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\bin\iPhone\Debug\XamarinDemoiOS.exe
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\bin\iPhone\Debug\XamarinDemoiOS.pdb
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\obj\iPhone\Debug\XamarinDemoiOS.exe
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\obj\iPhone\Debug\XamarinDemoiOS.pdb

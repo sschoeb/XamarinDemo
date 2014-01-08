@@ -1,0 +1,8 @@
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\bin\iPhoneSimulator\Debug\XamarinDemoiOS.exe
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\bin\iPhoneSimulator\Debug\XamarinDemoiOS.pdb
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\bin\iPhoneSimulator\Debug\XamarinDemo.Core.dll
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\bin\iPhoneSimulator\Debug\XamarinDemo.Core.pdb
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\bin\iPhoneSimulator\Debug\XamarinDemo.Core.dll.mdb
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\obj\iPhoneSimulator\Debug\XamarinDemo.iOS.csprojResolveAssemblyReference.cache
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\obj\iPhoneSimulator\Debug\XamarinDemoiOS.exe
+C:\Projekte\XamarinDemo\XamarinDemo.iOS\obj\iPhoneSimulator\Debug\XamarinDemoiOS.pdb

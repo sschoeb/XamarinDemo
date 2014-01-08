@@ -1,0 +1,5 @@
+C:\Projekte\XamarinDemo\XamarinDemo.Core\bin\Debug\XamarinDemo.Core.dll
+C:\Projekte\XamarinDemo\XamarinDemo.Core\bin\Debug\XamarinDemo.Core.pdb
+C:\Projekte\XamarinDemo\XamarinDemo.Core\obj\Debug\XamarinDemo.Core.csprojResolveAssemblyReference.cache
+C:\Projekte\XamarinDemo\XamarinDemo.Core\obj\Debug\XamarinDemo.Core.dll
+C:\Projekte\XamarinDemo\XamarinDemo.Core\obj\Debug\XamarinDemo.Core.pdb

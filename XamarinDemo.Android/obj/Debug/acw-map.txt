@@ -1,0 +1,2 @@
+XamarinDemo.Android.CalcActivity;xamarindemo.android.CalcActivity
+XamarinDemo.Android.InputActivity;xamarindemo.android.InputActivity
